@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Job Application crewAI</h1>
+<h1 align="center"> Job Application crewAI</h1>
 <p align="center"><i>Your AI-powered assistant for automating job discovery and resume matching</i></p>
 
 <p align="center">
@@ -6,17 +6,17 @@
     <img src="https://img.shields.io/badge/Python-3.11+-blue.svg" alt="Python 3.11+">
   </a>
   <a href="https://crewai.com/">
-    <img src="https://img.shields.io/badge/Built%20with-CrewAI-ff69b4.svg" alt="Built with CrewAI">
+    <img src="https://img.shields.io/badge/Built%20with-CrewAI-blue.svg" alt="Built with CrewAI">
   </a>
 </p>
 
 ---
 
-## 🌟 About the Project
+## About the Project
 
 `Job Application CrewAI` leverages intelligent agents to streamline your job hunt. With a combination of web scraping, semantic resume parsing, and CrewAI's agent collaboration framework, this tool helps identify the best job listings tailored to your profile.
 
-### 🔍 Use Case
+### Use Case
 
 - Automate job searching and ranking based on resume relevance.
 - Save time manually browsing and comparing listings.
@@ -24,17 +24,17 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-✅ Google job search integration via Serper.dev  
-✅ Web scraping of job descriptions  
-✅ Semantic resume-job matching  
-✅ Modular CrewAI agent framework  
-✅ Custom resume input via Markdown
+- Google job search integration via Serper.dev  
+- Web scraping of job descriptions  
+- Semantic resume-job matching  
+- Modular CrewAI agent framework  
+- Custom resume input via Markdown
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Python 3.11+**
 - [CrewAI](https://docs.crewai.com/)
@@ -44,7 +44,7 @@
 
 ---
 
-## 🧰 Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 
@@ -76,7 +76,7 @@ jupyter notebook Job_application_crew.ipynb
 
 ---
 
-## 🤖 Agent Workflow
+##  Agent Workflow
 
 1. **Search Agent**  
    Uses Serper.dev to identify job listings based on a user query.
@@ -95,7 +95,7 @@ jupyter notebook Job_application_crew.ipynb
 
 ---
 
-## 📄 Resume Input Format
+##  Resume Input Format
 
 Create a file named `fake_resume.md` in the root folder with content like:
 
@@ -113,7 +113,7 @@ Create a file named `fake_resume.md` in the root folder with content like:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 .
@@ -125,15 +125,15 @@ Create a file named `fake_resume.md` in the root folder with content like:
 
 ---
 
-## 🧠 Future Enhancements
+##  Future Enhancements
 
-- 📤 Email auto-apply feature  
-- 📈 Dashboard for match scoring  
-- 📎 Integration with LinkedIn and job APIs  
-- 🔐 `.env` support for better credential management
+-  Email auto-apply feature  
+-  Dashboard for match scoring  
+-  Integration with LinkedIn and job APIs  
+-  `.env` support for better credential management
   
 ---
 
 <p align="center">
-  Built with Love and LLM agents using <a href="https://crewai.com/">CrewAI</a>
+  Built with LLM agents using <a href="https://crewai.com/">CrewAI</a>
 </p>
